@@ -1,4 +1,4 @@
 File is changed.
 File is changed by master
-file is chenged
 File is changed by try-conflict
+File is changed by Collaborator
